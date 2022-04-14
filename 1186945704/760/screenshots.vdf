@@ -1,0 +1,77 @@
+"Screenshots"
+{
+	"730"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210528190449_2.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210528190449_2.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_overpass0001.jpg"
+			"Location"		"de_overpass"
+			"width"		"1200"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1622208889"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210528190449_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210528190449_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_overpass0000.jpg"
+			"Location"		"de_overpass"
+			"width"		"1200"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1622208889"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"2"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210516182742_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210516182742_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_inferno0001.jpg"
+			"Location"		"de_inferno"
+			"width"		"1200"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1621169862"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"3"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210421191920_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210421191920_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_inferno0000.jpg"
+			"Location"		"de_inferno"
+			"width"		"1400"
+			"height"		"1050"
+			"gameid"		"730"
+			"creation"		"1619012960"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"shortcutnames"
+	{
+	}
+}

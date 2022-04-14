@@ -1,0 +1,240 @@
+"UserLocalConfigStore"
+{
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{f3c8fab5-5c84-44e1-bc90-1e31a61d8889}"
+		"DefaultAudioDeviceName"		"Speakers (Realtek(R) Audio)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{96f1d6af-bbd5-498f-a342-4b9462b5e204}"
+		"DefaultMicrophoneName"		"Microphone (Realtek(R) Audio)"
+	}
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"friends"
+	{
+		"PersonaName"		"Master OwOgway"
+		"communitypreferences"		"0801100118002000280130013800"
+		"1186945704"
+		{
+			"name"		"Master OwOgway"
+			"NameHistory"
+			{
+				"0"		"Master OwOgway"
+				"1"		"G-naan"
+				"2"		"SAAR"
+				"3"		"Sir"
+				"4"		"T_T"
+				"5"		"Sir/Madam"
+				"6"		"Prithviraj T Cykavan"
+				"7"		"Prithviraj T Chavan"
+				"8"		"CPY"
+				"9"		"Jeenonnuh"
+			}
+			"avatar"		"72789abfbdf55ae8e229c9782c871d8a90bb783b"
+		}
+		"103582791464159219"
+		{
+			"name"		"• FERRARI PEEK"
+			"avatar"		"6706f651f49c702a8bc76527d9b351862b74bc4d"
+			"tag"		"•FERRARIPEEK"
+		}
+		"103582791429526910"
+		{
+			"name"		"Bleach"
+			"avatar"		"d7464f6f53c4dfa37d89e168e707d6f3957eba13"
+			"tag"		"Bleach"
+		}
+		"980312591"
+		{
+			"name"		"FriedMomos"
+			"NameHistory"
+			{
+				"0"		"FriedMomos"
+				"1"		"PutNanja"
+			}
+			"avatar"		"eb09019ea47e9f09ce14ee1cf9227cc6b02d2cba"
+		}
+		"1080497954"
+		{
+			"name"		"a1mple"
+			"NameHistory"
+			{
+				"0"		"a1mple"
+				"1"		"s1mbul baby"
+			}
+			"avatar"		"41fd43fb84eea19310a6dcc497bee4ad1f34cead"
+		}
+		"185570741"
+		{
+			"name"		"༄ Jaggy"
+			"NameHistory"
+			{
+				"0"		"༄ Jaggy"
+				"1"		"༄Jaggy"
+				"2"		"༄Panchayiti Parameshi"
+				"3"		"༄Meter Manja"
+				"4"		"༄ Sir Jaggy"
+				"5"		"༄ KaiKelsa Shobraj"
+			}
+			"avatar"		"3e7dcbbd1a846be15b7d34710143da7b18724b61"
+		}
+		"838544254"
+		{
+			"name"		"Frankie"
+			"NameHistory"
+			{
+				"0"		"Frankie"
+			}
+			"avatar"		"7e89cb63e8b9c07937f57d439ca385dd5304c63a"
+		}
+		"156351018"
+		{
+			"name"		"UppuKhara"
+			"NameHistory"
+			{
+				"0"		"UppuKhara"
+				"1"		"flabby"
+			}
+			"avatar"		"79d0ee1b661243714ec8081bd01e1a0505f2ad81"
+		}
+		"1108085680"
+		{
+			"name"		"C.C"
+			"NameHistory"
+			{
+				"0"		"C.C"
+			}
+			"avatar"		"ffcc4245d63dc6aeaef8a1a26ca400e1b650a6f2"
+		}
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000a85abf46010010010700000048697b7c6800a8c000000000e66ec360661edf600100000000000000000057ed4787ed381feff274517d953f4081e9c5c8544d791a7cefb8ce4bed919e6dd5fd7c4784e7a705024f3942407d6a88243ca7d996bb6d2810536c81deb0009ae9d0b1759cb97d6a02b358db94f76a57316951a95c1a3d9511ecdcaac18110d9f74e1caad4c44c059c2ed92f23ea32814e24be9cd8e223f9a95dec0084a940aa"
+		"228980"		"3200000004000000a85abf4601001001747e0300a26a7b7c6800a8c000000000a7bfb960276fd560010000000000000000000da1e176b904dc71a3ec6ff720a6aaec34e7188aba215b14157374801344cd165a1126b10f2c3c4f9a03ff8512a1e6ca0b9b274ee6572bb235c41df004696f5087ce1211f1408467cf42aa27c09ab9f28269c4a3aba9a22768fc165671aec940db77fb91c5c2a23164bf50e30a2423d079e70e9cde1e65bd7b2feea58b8cd8dd"
+		"730"		"3200000004000000a85abf4601001001da020000a26a7b7c6800a8c000000000a7bfb960276fd56001001aa10400000000007d77c80cf57550aa20cc9a89ae535007c3050ca2d9840ca3f562fe6af0874ef8f78d624107f008f63c5bdceb14ab0d9dae0019f5e0bf874af4b1b768418309f068fe5052bcd67c526c4dd8dc0a1449a114e78f339faaac944e11d0ff87fa82cf222fb3774ba01d051c10a2618f41c34993b51b94749eadc59784c16ff8f74b09"
+		"755800"		"3200000004000000a85abf460100100158880b00a26a7b7c6800a8c000000000a7bfb960276fd560010071660300000000000a22c156f512154210fccd2a91661297693ae635d9e9bc9e4016068726c8c335f042b3a36f5b639079a0e4e08c4af756abfd49f89444c045eb9efdff12b50de42eb3c334327b5d79a300649d432b36435136c0559f7b27641f1375bd985cf67d417d079f98e5fd3390fcb66d9d0670d6297a8801ce2406b4da995200ef918edf"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09a85abf46000000004800"
+		"Signature"		"a0c727984392a3700de86905d64107591d5efcf4b492e61f6085c63b03661efb81ca23ef00b60732a28a5c87dad54e8a952a2f057a11fd60f36345fd591a4073296a8ddeb1beb25a0860f8043fc7592700fb53f023afe4ab605333e5f8cf8ccb4e2d8a9469801a366d6e35edeb1080d7df7a9ec8f507298bdd3e6149b33e2c781eb9a5b0a0f9c874b535dfddcdf5f85bed59a7a213cee7a3803c603c39b2c773150ba7a9d2d50bf65628e7c4d506f8bf95af02e7bbd0a3e63ac656ff8ca221bb998d0365d5e5164d95ce40d9bf2b1416f5310f051fdbebaf70747840be148223d0b05c41a833f928c350b4171be5350e65f66d28eb71ba8724b039b4981516d0"
+	}
+	"Offline"
+	{
+		"Ticket"		"7e5c4619b5873fe83a42120fbc4d8a11bfb05e5657fd2fa16bfd7644abfdce8306"
+		"Signature"		"19f4563937dd22d01c1ffb5ce93bf252800638fc471e8e3b067820368f045d77b4943f00a0a724ce409fefcf65a525e8c3dc554d4445292cdea1d63d99cf3e5472f3c9e1c039b07a69076d695014d0a4c60b05163170a0eca2cc7e4155891e906e40168165925ad0146cc4a34cfeb87eb382c13cc0c013789fcae05f4da23c78e31aac8bbc7cc344818e0b241a77dc91015c723ddeaff80d8269ec93a27d3f5fdd885a926912aec4337464bff9ceddd2c0246a1be0b49349b02da5ee3fc0e813c82dbb59d0a48e19c2ca05df188b99ba6645e404e64afdd26040786ef463a049ecc42d293aadd28c8d024d6681afff5077558d35883c1e1e4e154b8496f7c899"
+	}
+	"SharedAuth"
+	{
+		"id"		"460593194"
+		"AuthData"		"0a35d78e009750a07b1d1cb4337906a944ac90c6112493c64edf7f353c3fae87"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"LastPlayedTimesSyncTime"		"1622786496"
+				"apps"
+				{
+					"730"
+					{
+						"autocloud"
+						{
+							"lastlaunch"		"1622785970"
+							"lastexit"		"1622786497"
+						}
+						"LastPlayed"		"1622786496"
+						"BadgeData"		"020000000800"
+						"DisableUpdatesUntil"		"0"
+						"Playtime2wks"		"342"
+						"Playtime"		"2759"
+						"LaunchOptions"		"-novid -w 1200 -h 960 -nojoy -nod3d9ex "
+					}
+					"755800"
+					{
+						"755800_eula_0"		"0"
+						"LastPlayed"		"1616866536"
+						"BadgeData"		"020000000800"
+						"Playtime2wks"		"3"
+						"Playtime"		"3"
+					}
+				}
+				"PlayerLevel"		"0"
+			}
+		}
+	}
+	"AppInfoChangeNumber"		"11731074"
+	"WebStorage"
+	{
+		"SteamVoiceSettings_1186945704"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"user-collections"		"{}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1623420650.878}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1623420651,\"appids\":[755800]},\"rgIgnoredApps\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b((ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|уёбищная|god\\\\W*damn?\\\\w*|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|a+sholes?|sh+e+i+t+|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|sluts?|slutty|twats?|cums?|dafuq|diсk|sh it|coq+|hore|kock|shat|dik|fck|\\\\w*negr[ao]+e?s?\\\\w*|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|polacke?s?|neekeris?|nigfhers?|redskins?|beaners?|coolies?|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|\\\\w*fag|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|spics?|tards?|abos?|fgts?|fаgs|gypsy|japs?|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|kompetenzteam|montenegro|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|nie gee|fuchsia|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebo|fuku|fuki|fakt)\\\\b)$\""
+		"ChatStorePopupState_1186945704"		"{\"window_restore_details\":\"1&x=590&y=215&w=925&h=813\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"FriendStoreLocalPrefs_1186945704"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
+		"GameInvites_1186945704"		"{\"dismisstimes\":{\"838544254\":1620639504,\"1186945704\":1620146114}}"
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"6844362414830810377"		"1"
+			"1602481068357727004"		"1"
+			"8456190652726850566"		"1"
+			"1363453679348384691"		"1"
+			"7662382259710981910"		"1"
+			"8531399475708536654"		"1"
+			"3046407941925107765"		"1"
+			"8716533243183436659"		"1"
+			"5838966728467781414"		"1"
+			"1506965570475501836"		"1"
+			"8504348393146187"		"1"
+			"5379364987550206623"		"1"
+			"8303840044123661925"		"1"
+			"3439941796433412452"		"1"
+			"454232295316678372"		"1"
+			"7969512140028150499"		"1"
+			"8159248608011149834"		"1"
+			"2341813205938029332"		"1"
+			"3651026325221938284"		"1"
+			"552477586442535084"		"1"
+			"4678560355403860744"		"1"
+			"8988218770980806849"		"1"
+			"1408753601232469593"		"1"
+			"1593997273224463349"		"1"
+			"4737686033018430251"		"1"
+		}
+	}
+	"nettickets"
+	{
+		"730"		"010000007f0009ebfa2cc7734db7dd33361354944c7ae04db709cb88432855a6858987b47ef8b5c73d48d7f8b05cef89623276e4be1f8e6faca0786261569d2e2635487de4ee642ac741128312e79991480dd2b39c22c8301241c60d3248bbc99a636cb38a5f3d5aec3d572e00c261a2e488ef136a45ec68109c58f3a8b3e4e5d71e6c17a330b920914101b51104580185b2870343922c3779386816d0ed678a1d9780f6bd9ed55c6b62b61e831c86a58938a3d921827b7fb212cae231154d20376fbf2bfacad7b1b168c055c07c442d2f1bded5cc4b075f0d6fcc56743318ef64aa912c6e6bab1055da854ef3a40f3a2fe34371a8270ed772b560"
+	}
+	"CloudKey"		"010000008a4492f4d89a7b9aee620155a45f30eabdd317c9e058fc8942756bb70e462352cc272b8b"
+	"CloudKeyCRC"		"-1288537883"
+	"StartupState.Friends"		"0"
+	"CloudManager"
+	{
+		"HintAppsToPreload"		""
+	}
+	"Licenses"
+	{
+		"0"		"01000000750d0b7691f6c3095e52183391ed6817b4020ba42382eaa2c3f4ad71b898c86ce1b004ae0fbf018d9e896dbbf77aa1e1b223afb077b84f5fb3ee7728523ced1b038e7684c42e1ae56681dcbacf7800a4837e4f9f77870158ddb5d6246bc3f392adbbe1a23b004433ed4d29e622a61d301f2d930d5568fd4bc8ff40d41e1d54acd50ff0cee5872f782e463775e1d09e72519b2c3d635c5221e6d853ef49dccbaefdc695141939e149aa222bd91b15456cbed555ac9d17e287a18f9cc147186f68aa3524459c4dc8877b747a92e9b655e35c5f9faa21ba494bc53139ab19fa3474f3e4a8349b20ae8a8615cdb83431305faa710e8dfcf070243ee1da2d2edfd928b245469d4e3564eb215988c2d74a557f5c9f5473cf69c844d5ad07a97f747f48fb6e4fc8650e9ed3dfbe045c942d4dc3ce2a74a64dc961415e1969aaa1dbe4bfbac0573d0008086468effe"
+		"222833"		"01000000750d0b7691f6c3095e52183391ed6817b4020ba42382eaa2c3f4dc17bb98c86ce1b004ae0fbf018d9e896dd97677a1e1b223afb077b84f5fb3ee7728523ced1b038e7684c42e1ae56681dcbacf7800a4837e4f9f77870158ddb5d6246bc3f392adbbe1a23b004433ed4d29e622a61d301f2d930d5568fd4bc8ff40d41e1d54acd50ff0cee5872f782e463775e1d0d73e37f52b36713b2121e6d851bb2efadcb5fbc09302282fc643ce472bd91b172907b1d958ba9610fe83bdfff8c146186d27df143659b07b816b2163662fe6da75f95c4a9a9b28984556c85e5dab19fa363d9fc4b2348e259b8fbf19f5b3082b592baa710e8fae974c2427e5c11c27fdd535bf2a229d4e3566b9466588dbd351607a65936c78f373a130d5ad07ae3e105d4eeb7868d45a049bb6056e761d7f6ac13d77f1179858df67744d2a63a8addfca9ef384573d6567a31b08f914c85e"
+		"303386"		"01000000750d0b7691f6c3095e52183391ed6817b4020ba42382eaa2c3f4b7d0bc98c86ce1b004ae0fbf018d9e896d545e16a1e1b223afb077b84f5fb3ee7728523ced1b038e7684c42e1ae56681dcbacf7800a4837e4f9f77870158ddb5d6246bc3f392adbbe1a23b004433ed4d29e622a61d301f2d930d5568fd4bc8ff40d41e1d54acd50ff0cee5872f782e463775e1d0d73e37f52b36713b2121e6da51bb2efadcb5fbc09302282fc643ce472bd91b172907b1d958ba9610fe83bdfff8c146186d27df143659b07b816b2163662fe6da75f95c4a9a9b28984556c85e5dab19fa363d9fc4b2348e259b8fbf19f5b3082b592baa710e8fae974c2427e5c11c27fdd535bf2a229d4e3566b9466588dbd351607a65936c78f373a130d5ad07ae3e105d4eeb7868d45a049bb6056e7808597c55647908179858df67744d2a63a8addfca9ef384573d6567a31b0884a4d22a"
+	}
+}

@@ -1,0 +1,64 @@
+"Screenshots"
+{
+	"730"
+	{
+		"0"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210818101326_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210818101326_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_dust20000.jpg"
+			"Location"		"de_dust2"
+			"taggedusers"
+			{
+				"0"		"76561198443231712"
+			}
+			"width"		"1200"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1629261806"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210525232016_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210525232016_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_mirage0001.jpg"
+			"Location"		"de_mirage"
+			"width"		"1400"
+			"height"		"1050"
+			"gameid"		"730"
+			"creation"		"1621965016"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"2"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20210525140606_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20210525140606_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_mirage0000.jpg"
+			"Location"		"de_mirage"
+			"width"		"1280"
+			"height"		"960"
+			"gameid"		"730"
+			"creation"		"1621931766"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+	}
+	"shortcutnames"
+	{
+	}
+}

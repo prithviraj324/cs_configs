@@ -1,0 +1,27 @@
+"730"
+{
+	"cfg/config.cfg"
+	{
+		"root"		"0"
+		"size"		"12433"
+		"localtime"		"1594556018"
+		"time"		"1594556017"
+		"remotetime"		"1594556017"
+		"sha"		"ecb757eb209627d00a53fa55dc7a1d51bfc4d7ad"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"cfg/csgo_saved_item_shuffles.txt"
+	{
+		"root"		"0"
+		"size"		"24"
+		"localtime"		"1594223965"
+		"time"		"1594223965"
+		"remotetime"		"1594223965"
+		"sha"		"c7bdc563982fc4ddddb9e6f8853b298967d858f9"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
