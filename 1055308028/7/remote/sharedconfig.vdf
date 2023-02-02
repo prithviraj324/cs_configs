@@ -8,10 +8,8 @@
 			{
 				"SurveyDate"		"2021-06-21"
 				"SurveyDateVersion"		"4035412065755274544"
-				"SteamDefaultDialog"		"#app_store"
-				"ShowScreenshotManager"		"0"
 				"StartMenuShortcutCheck"		"1"
-				"DesktopShortcutCheck"		"0"
+				"DesktopShortcutCheck"		"1"
 			}
 		}
 	}

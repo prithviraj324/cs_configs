@@ -1,7 +1,7 @@
 "VideoConfig"
 {
 	"setting.cpu_level"		"2"
-	"setting.gpu_level"		"3"
+	"setting.gpu_level"		"2"
 	"setting.mat_antialias"		"2"
 	"setting.mat_aaquality"		"0"
 	"setting.mat_forceaniso"		"16"
@@ -11,7 +11,7 @@
 	"setting.gpu_mem_level"		"2"
 	"setting.mem_level"		"2"
 	"setting.mat_queue_mode"		"-1"
-	"setting.csm_quality_level"		"2"
+	"setting.csm_quality_level"		"1"
 	"setting.mat_software_aa_strength"		"1"
 	"setting.mat_motion_blur_enabled"		"0"
 	"setting.mat_texturestreaming"		"1"
@@ -23,5 +23,7 @@
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
 }
+
+
 
 

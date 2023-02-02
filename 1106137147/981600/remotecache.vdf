@@ -1,0 +1,17 @@
+"981600"
+{
+	"ChangeNumber"		"-8635878245795926575"
+	"ostype"		"16"
+	"player.player.dat"
+	{
+		"root"		"1"
+		"size"		"17767"
+		"localtime"		"1660734495"
+		"time"		"1660734494"
+		"remotetime"		"1660734494"
+		"sha"		"3d031e2359110c11bf155a3e67d2be8a89ddc7e7"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

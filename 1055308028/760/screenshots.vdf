@@ -5,6 +5,108 @@
 		"0"
 		{
 			"type"		"1"
+			"filename"		"730/screenshots/20230108081604_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20230108081604_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_dust20000.jpg"
+			"Location"		"de_dust2"
+			"width"		"1152"
+			"height"		"864"
+			"gameid"		"730"
+			"creation"		"1673145964"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"1"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20220804194107_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20220804194107_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_inferno0005.jpg"
+			"Location"		"de_inferno"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"730"
+			"creation"		"1659622267"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"2"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20220804194106_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20220804194106_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_inferno0004.jpg"
+			"Location"		"de_inferno"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"730"
+			"creation"		"1659622266"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"3"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20220804194101_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20220804194101_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_inferno0003.jpg"
+			"Location"		"de_inferno"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"730"
+			"creation"		"1659622261"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"4"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20220501093549_2.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20220501093549_2.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_mirage0001.jpg"
+			"Location"		"de_mirage"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"730"
+			"creation"		"1651377949"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"5"
+		{
+			"type"		"1"
+			"filename"		"730/screenshots/20220501093549_1.jpg"
+			"thumbnail"		"730/screenshots/thumbnails/20220501093549_1.jpg"
+			"vrfilename"		""
+			"imported"		"1"
+			"externalfilename"		"c:\\program files (x86)\\steam\\steamapps\\common\\counter-strike global offensive\\csgo\\screenshots\\de_mirage0000.jpg"
+			"Location"		"de_mirage"
+			"width"		"1920"
+			"height"		"1080"
+			"gameid"		"730"
+			"creation"		"1651377949"
+			"caption"		""
+			"Permissions"		"2"
+			"hscreenshot"		"18446744073709551615"
+		}
+		"6"
+		{
+			"type"		"1"
 			"filename"		"730/screenshots/20220313102658_1.jpg"
 			"thumbnail"		"730/screenshots/thumbnails/20220313102658_1.jpg"
 			"vrfilename"		""
@@ -19,7 +121,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"1"
+		"7"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20220312173859_1.jpg"
@@ -36,7 +138,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"2"
+		"8"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20220202173456_1.jpg"
@@ -53,7 +155,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"3"
+		"9"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20211010081125_2.jpg"
@@ -70,7 +172,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"4"
+		"10"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20211010081125_1.jpg"
@@ -87,7 +189,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"5"
+		"11"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20211010081124_1.jpg"
@@ -104,7 +206,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"6"
+		"12"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20210404144519_1.jpg"
@@ -121,7 +223,7 @@
 			"Permissions"		"2"
 			"hscreenshot"		"18446744073709551615"
 		}
-		"7"
+		"13"
 		{
 			"type"		"1"
 			"filename"		"730/screenshots/20210204185413_1.jpg"

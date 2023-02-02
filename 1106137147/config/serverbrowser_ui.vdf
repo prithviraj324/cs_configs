@@ -12,7 +12,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 		"FavoriteGames"
 		{
@@ -23,7 +23,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 		"HistoryGames"
 		{
@@ -34,7 +34,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 		"SpectateGames"
 		{
@@ -45,7 +45,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 		"LanGames"
 		{
@@ -56,7 +56,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 		"FriendsGames"
 		{
@@ -67,7 +67,7 @@
 			"NoFull"		"0"
 			"NoEmpty"		"0"
 			"NoPassword"		"0"
-			"Secure"		"0"
+			"secure"		"0"
 		}
 	}
 }

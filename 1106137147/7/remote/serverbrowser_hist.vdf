@@ -157,6 +157,14 @@
 			"appid"		"0"
 			"accountid"		"0"
 		}
+		"20"
+		{
+			"name"		"192.168.0.106:27015"
+			"address"		"192.168.0.106:27015"
+			"LastPlayed"		"1660735687"
+			"appid"		"0"
+			"accountid"		"0"
+		}
 	}
-	"lastupdate"		"1642755894"
+	"lastupdate"		"1672170576"
 }
